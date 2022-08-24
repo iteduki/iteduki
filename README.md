@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iteduki)](https://github.com/iteduki/github-readme-stats)
 
 
